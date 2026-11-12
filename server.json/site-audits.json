@@ -3,8 +3,29 @@
   "name": "io.trakis/site-audits",
   "title": "Trakis site audits",
   "description": "Your Trakis site audits in an AI assistant: health, findings, changes and search positions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://trakis.io/connect",
+  "repository": {
+    "url": "https://github.com/talval-research/trakis-mcp",
+    "source": "github",
+    "id": "1455416368"
+  },
+  "icons": [
+    {
+      "src": "https://trakis.io/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://trakis.io/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
